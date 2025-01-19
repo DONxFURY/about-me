@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is DON FURY ... and I'm Grey hat HAcker and im ..., from Hell ....</h2>
+<h2 align="left">Hi 👋! My name is DON FURY ... and I'm Grey hat Hacker and i'm ..., from Hell ....</h2>
 
 ###
 
